@@ -216,16 +216,20 @@ plt.show()
 ## Output:
  1. Read and Display an Image.
 <img width="529" height="435" alt="download" src="https://github.com/user-attachments/assets/fd0defea-cef3-4fad-a0e9-83c5ff966ddb" />
+
+
 2. Display the image using matplotlib imshow().
+
+   
 <img width="529" height="418" alt="download" src="https://github.com/user-attachments/assets/1645ca71-9d95-4c4f-a95d-b24d32a5ede5" />
 
+3)Resize the image up by a factor of 2x.
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/49dbf5ba-5ae7-4d0d-8bb6-a1c332b1503a" />
+htness. 
 
- 
-ii)Adjust Image Brightness. 
 
-
-iii)Modify Image Contrast.  
-iv) Generate Third Image Using Bitwise Operations.
+)Modify Image Contrast.  
+) Generate Third Image Using Bitwise Operations.
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
