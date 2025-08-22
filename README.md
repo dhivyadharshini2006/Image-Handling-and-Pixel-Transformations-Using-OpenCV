@@ -224,12 +224,51 @@ plt.show()
 <img width="529" height="418" alt="download" src="https://github.com/user-attachments/assets/1645ca71-9d95-4c4f-a95d-b24d32a5ede5" />
 
 3)Resize the image up by a factor of 2x.
-<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/49dbf5ba-5ae7-4d0d-8bb6-a1c332b1503a" />
-htness. 
 
 
-)Modify Image Contrast.  
-) Generate Third Image Using Bitwise Operations.
+<img width="307" height="411" alt="download" src="https://github.com/user-attachments/assets/4c7bc193-8ec4-4bc1-823d-d62dc5564399" />
+
+4)Flipped Horizontally
+
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/8e7b5a85-979f-4018-a5a0-14cfb8cd87bb" />
+
+
+5)New image.
+
+
+<img width="552" height="345" alt="download" src="https://github.com/user-attachments/assets/c437d153-3671-4573-82f6-adfba322321b" />
+
+6)Annotated image.
+
+<img width="552" height="345" alt="download" src="https://github.com/user-attachments/assets/d12c4c3c-a6b9-48f0-b95e-d1a34c528e26" />
+
+7)Brightness.
+
+<img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/671a6828-1a44-4746-8111-ba383da76d55" />
+
+
+8)Contrast.
+
+<img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/05559982-b002-47fe-a85a-24e870888d72" />
+
+
+9)BGR Channel.
+
+<img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/22f8d9bd-0f4f-4032-b813-804525e289a4" />
+
+10)BGR Channel.
+
+<img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/3a9e8971-8d92-4a4d-8179-686920c90ee3" />
+
+
+11)Hue Channel.
+
+
+<img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/1b27d2ef-5eec-4f7f-8dd9-bfeb24f95248" />
+
+12) Merged HSV Image.
+
+<img width="794" height="332" alt="download" src="https://github.com/user-attachments/assets/4e047572-4a8d-4c30-9c78-15fb3cc5c21f" />
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
